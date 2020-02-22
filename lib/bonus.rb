@@ -22,6 +22,8 @@ def bonus
 
   #code your solution here:
   [:montague][:hero][:status]="dead"
+  [:capulet][:heroine][:status]="dead"
+  epic_tragedy
   
 
   
